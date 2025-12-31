@@ -1,0 +1,9 @@
+We are looking for an AI Engineer with experience in machine learning,
+data science, Python, SQL, and deploying AI models.
+
+Requirements:
+- Strong Python programming
+- Experience with machine learning algorithms
+- Knowledge of data preprocessing and feature engineering
+- Familiarity with REST APIs and cloud deployment
+- Experience with LLMs or Generative AI is a plus
