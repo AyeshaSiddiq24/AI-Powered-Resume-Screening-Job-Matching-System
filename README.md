@@ -1,4 +1,4 @@
-# AI-Powered-Resume-Screening-Job-Matching-System
+
 # AI-Powered Resume Screening & Job Matching System
 
 An end-to-end AI-driven application that automatically evaluates resumes against job descriptions using semantic similarity, NLP, and vector search. The system helps recruiters and candidates quickly assess job fit with structured, explainable results.
